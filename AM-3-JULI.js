@@ -1,6 +1,6 @@
 /**
  * ============================================================
- * ⚡ MOTION ENGINE · GLOBAL EDGE EDITION (Cloudflare Workers)
+ * ⚡ MOTION ENGINE
  * Native Reverse-Engineered Alight Motion Pro API
  * Developer : XIYU CODEX
  * Version   : 1.0.0
